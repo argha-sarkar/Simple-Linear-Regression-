@@ -30,3 +30,8 @@ a = [∑y ∑(x²) - ∑x ∑(xy)] / [n∑(x²) - (∑x)²]
 5. *R² (Coefficient of Determination):* To understand the explanatory power of the model.
 
 6. *Residual Sum of Squares (RSS):* Σ(y - ŷ)², where y is the actual value, ŷ is the prediction.
+
+### Why is it used?
+1. When you want to predict output from a single feature.
+2. To understand the relationship between two variables.
+3. Because it is simple, fast, and easy to interpret.
